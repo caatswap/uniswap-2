@@ -1,5 +1,0 @@
-import MIGRATOR_ABI from './migrator.json'
-
-const MIGRATOR_ADDRESS = '0x86AeBa9917be36e2e7AA0C9Aea94C03AA5234ED9'
-
-export { MIGRATOR_ADDRESS, MIGRATOR_ABI }
